@@ -45,4 +45,3 @@ Aspiring robotics engineer
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/robogirl11">robogirl11</a></i></p>
